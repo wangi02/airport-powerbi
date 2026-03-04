@@ -1,0 +1,31 @@
+route_id,destination_code,airport_name,city,country,region,distance_km,timezone,flight_category,daily_frequency,route_launched,slot_type
+RT001,CDG,Paris Charles de Gaulle,Paris,France,Europe,450,UTC+1,Short-haul,1.0,1997,Allocated
+RT002,LHR,London Heathrow,London,United Kingdom,Europe,650,UTC+0,Short-haul,1.0,2017,Allocated
+RT003,AMS,Amsterdam Schiphol,Amsterdam,Netherlands,Europe,365,UTC+1,Short-haul,0.7,2019,Allocated
+RT004,FCO,Rome Fiumicino,Rome,Italy,Europe,960,UTC+1,Short-haul,0.5,2003,Allocated
+RT005,MXP,Milan Malpensa,Milan,Italy,Europe,515,UTC+1,Short-haul,0.5,1994,Allocated
+RT006,MAD,Madrid Barajas,Madrid,Spain,Europe,1450,UTC+1,Medium-haul,0.5,1984,Allocated
+RT007,BCN,Barcelona El Prat,Barcelona,Spain,Europe,1090,UTC+1,Medium-haul,0.5,2019,Allocated
+RT008,VIE,Vienna International,Vienna,Austria,Europe,600,UTC+1,Short-haul,0.5,2007,Allocated
+RT009,ZRH,Zurich Airport,Zurich,Switzerland,Europe,305,UTC+1,Short-haul,0.7,2006,Allocated
+RT010,BRU,Brussels Airport,Brussels,Belgium,Europe,320,UTC+1,Short-haul,0.4,2020,Allocated
+RT011,CPH,Copenhagen Airport,Copenhagen,Denmark,Europe,680,UTC+1,Short-haul,0.3,2000,Allocated
+RT012,WAW,Warsaw Chopin,Warsaw,Poland,Europe,890,UTC+1,Short-haul,0.3,1964,Allocated
+RT013,IST,Istanbul Airport,Istanbul,Turkey,Europe,1860,UTC+3,Medium-haul,0.4,1967,Allocated
+RT014,ATH,Athens International,Athens,Greece,Europe,1810,UTC+2,Medium-haul,0.3,1974,Allocated
+RT015,LIS,Lisbon Portela,Lisbon,Portugal,Europe,1880,UTC+0,Medium-haul,0.3,1963,Allocated
+RT016,ARN,Stockholm Arlanda,Stockholm,Sweden,Europe,1240,UTC+1,Medium-haul,0.3,1993,Allocated
+RT017,MUC,Munich Airport,Munich,Germany,Europe,300,UTC+1,Short-haul,1.0,1968,Allocated
+RT018,DUS,Dusseldorf Airport,Dusseldorf,Germany,Europe,225,UTC+1,Short-haul,0.5,2020,Allocated
+RT019,JFK,New York JFK,New York,United States,North America,6200,UTC-5,Long-haul,0.5,2013,Allocated
+RT020,ORD,Chicago O'Hare,Chicago,United States,North America,6970,UTC-6,Long-haul,0.3,1973,Allocated
+RT021,IAD,Washington Dulles,Washington,United States,North America,6350,UTC-5,Long-haul,0.25,2018,Allocated
+RT022,YYZ,Toronto Pearson,Toronto,Canada,North America,6350,UTC-5,Long-haul,0.25,2000,Allocated
+RT023,NRT,Tokyo Narita,Tokyo,Japan,Asia,9350,UTC+9,Long-haul,0.25,1999,Allocated
+RT024,SIN,Singapore Changi,Singapore,Singapore,Asia,10300,UTC+8,Long-haul,0.2,2019,Allocated
+RT025,DEL,Delhi Indira Gandhi,Delhi,India,Asia,5850,UTC+5:30,Long-haul,0.25,1965,Allocated
+RT026,PVG,Shanghai Pudong,Shanghai,China,Asia,8950,UTC+8,Long-haul,0.2,2020,Allocated
+RT027,GRU,Sao Paulo Guarulhos,Sao Paulo,Brazil,South America,9850,UTC-3,Long-haul,0.15,1992,Allocated
+RT028,JNB,Johannesburg O.R. Tambo,Johannesburg,South Africa,Africa,8650,UTC+2,Long-haul,0.15,1971,Allocated
+RT029,BKK,Bangkok Suvarnabhumi,Bangkok,Thailand,Asia,8950,UTC+7,Long-haul,0.2,1975,Allocated
+RT030,DXB,Dubai International,Dubai,UAE,Middle East,4830,UTC+4,Long-haul,0.3,1991,Allocated
